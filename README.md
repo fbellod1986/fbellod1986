@@ -10,7 +10,7 @@ Soy **Full Stack Web Developer**, con 14 años de experiencia prestando servicio
 * [**Linkedin**](https://www.linkedin.com/in/franco-bello/) en donde comparto diariamente actualizaciones de todo tipo.
 * [**CI/CD - CHILE**](https://www.facebook.com/groups/cicdchile) en donde junto con la comunidad hacemos esto mas mucho mas grande.
 
-# Puedes pillarme en: 
+# Puedes contactarme en: 
 * e-mail: franco.lauer@gmail.com
 * instagram: wizard1986
 * twitter: W1zarD86
