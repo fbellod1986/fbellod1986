@@ -2,9 +2,9 @@
 
 <p align='center'>
 <a href="https://medium.com/@fbellod" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/W1zarD86" target="_blank"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="http://instagram.com/wizard1986" target="_blank"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/franco-bello/" target="_blank"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/W1zarD86" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"></a>&nbsp;&nbsp;
+<a href="http://instagram.com/wizard1986" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/franco-bello/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
 </p>
 
 <h2 align="center">Hola a todos, Mi nombre es Franco Bello. 👋🤓</h2>
