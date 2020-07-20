@@ -9,7 +9,7 @@
 
 <h2 align="center">Hola a todos, Mi nombre es Franco Bello. 👋🤓</h2>
 
-Soy **Senior Frontend Developer**, con 14 años de experiencia prestando servicios a distintas empresas e instituciones, me apasionan las tecnologías del front-end especialmente del framework **Angular** :a: que me a dado muchos buenos momentos y también todo lo relacionado con la nube, participo activamente en grupos y eventos de la comunidad local como [**Angular Chile**](https://www.facebook.com/ngchile) y [**Frontend Chile**](https://www.facebook.com/groups/FrontEndChile) compartiendo mis conocimientos al servicio de la comuinidad. Creador del grupo [**CI/CD - CHILE**](https://www.facebook.com/groups/cicdchile) en donde cada dia sumamos a mas desarrolladores amantes del DEVOPS. Comparto mi amor por la tecnología a través de [**Medium**](https://medium.com/@fbellod) y soy un apasionado de la astronomia :satellite:.
+Soy **Desarrollador Frontend Senior**, con 14 años de experiencia prestando servicios a distintas empresas e instituciones, me apasionan las tecnologías del front-end especialmente del framework **Angular** :a: que me a dado muchos buenos momentos y también todo lo relacionado con la nube, participo activamente en grupos y eventos de la comunidad local como [**Angular Chile**](https://www.facebook.com/ngchile) y [**Frontend Chile**](https://www.facebook.com/groups/FrontEndChile) compartiendo mis conocimientos al servicio de la comuinidad. Creador del grupo [**CI/CD - CHILE**](https://www.facebook.com/groups/cicdchile) en donde cada dia sumamos a mas desarrolladores amantes del DEVOPS. Comparto mi amor por la tecnología a través de [**Medium**](https://medium.com/@fbellod) y soy un apasionado de la astronomia :satellite:.
 
 # Lenguajes y Herramientas
 
@@ -17,12 +17,16 @@ Soy **Senior Frontend Developer**, con 14 años de experiencia prestando servici
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 </p>
