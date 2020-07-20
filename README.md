@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/franco-bello/" target="_blank"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-<h2 align="center">Hola a todos, Minombre es Franco Bello. 👋🤓</h2>
+<h2 align="center">Hola a todos, Mi nombre es Franco Bello. 👋🤓</h2>
 
 Soy **Full Stack Web Developer**, con 14 años de experiencia prestando servicios a distintas empresas e instituciones, me apasionan las tecnologías de front-end y todo lo relacionado con la nube especialmente del framework **Angular** :a: que me a dado muchos buenos momentos, participo activamente en grupos y eventos de la comunidad local como [**Angular Chile**](https://www.facebook.com/ngchile) y [**Frontend Chile**](https://www.facebook.com/groups/FrontEndChile) compartiendo mis conocimientos al servicio de la comuinidad. Creador del grupo [**CI/CD - CHILE**](https://www.facebook.com/groups/cicdchile) en donde cada dia sumamos a mas desarrolladores amantes del DEVOPS. Comparto mi amor por la tecnología a través de [**Medium**](https://medium.com/@fbellod) y soy un apasionado de la astronomia :satellite:.
 
