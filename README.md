@@ -1,6 +1,11 @@
-# Hola, soy Franco Bello :rocket: :satellite: :computer:
-
 ![](https://fotos.subefotos.com/0fe22151040675681358372096afe6c4o.gif)
+
+<p align='center'>
+<a href="https://medium.com/@fbellod" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/W1zarD86" target="_blank"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="http://instagram.com/wizard1986" target="_blank"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/franco-bello/" target="_blank"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 
 Soy **Full Stack Web Developer**, con 14 años de experiencia prestando servicios a distintas empresas e instituciones, me apasionan las tecnologías de front-end y todo lo relacionado con la nube especialmente del framework **Angular** :a: que me a dado muchos buenos momentos, participo activamente en grupos y eventos de la comunidad local como [**Angular Chile**](https://www.facebook.com/ngchile) y [**Frontend Chile**](https://www.facebook.com/groups/FrontEndChile) compartiendo mis conocimientos al servicio de la comuinidad. Creador del grupo [**CI/CD - CHILE**](https://www.facebook.com/groups/cicdchile) en donde cada dia sumamos a mas desarrolladores amantes del DEVOPS. Comparto mi amor por la tecnología a través de [**Medium**](https://medium.com/@fbellod) y soy un apasionado de la astronomia :satellite:.
 
